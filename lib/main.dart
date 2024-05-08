@@ -1,4 +1,4 @@
-import "";
+import "lib/Hangman.dart';
 
 void main() {
   final List<String> words = ["android", "flutter", "dart", "sdk", "ieee"];
