@@ -20,7 +20,7 @@ To run the game, you need to have Dart installed on your system. If you haven't 
 Once Dart is installed, you can clone this repository and run the `hangman.dart` file.
 
 ```bash
-$ dart hangman.dart
+$ dart lib\hangman.dart
 ```
 
 ## Contributing 🤝
