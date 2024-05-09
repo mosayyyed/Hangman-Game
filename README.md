@@ -17,10 +17,10 @@ This Hangman game allows players to guess letters to uncover a hidden word. Play
 
 To run the game, you need to have Dart installed on your system. If you haven't already, you can install Dart from [here](https://dart.dev/get-dart).
 
-Once Dart is installed, you can clone this repository and run the `hangman.dart` file.
+Once Dart is installed, you can clone this repository and run the `main.dart` file.
 
 ```bash
-$ dart lib\hangman.dart
+$ dart lib\main.dart
 ```
 
 ## Contributing 🤝

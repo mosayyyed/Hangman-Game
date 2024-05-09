@@ -1,4 +1,3 @@
-import "dart:io";
 import "dart:math";
 
 class Hangman {
@@ -112,7 +111,7 @@ class Hangman {
     =========
     '''
     ];
-    
+
     print(hangmanArt[incorrectGuesses]);
   }
 }
